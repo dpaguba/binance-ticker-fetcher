@@ -2,3 +2,4 @@
 node_modules/
 package.json
 package-lock.json
+binance_tickers.txt
